@@ -8,5 +8,8 @@ div{
     color:blue;
     background-color: aqua;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: medium;
+    /* font-size: medium; */
+    display:block;
+    height:80px;
+    font-size: 25px;
 }
